@@ -26,6 +26,6 @@ public class Helper {
 
     public void add(){
         int answer = num1 + num2;
-        System.out.println(answer);
+        System.out.println("Sum of 2 numbers : " + answer);
     }
 }
